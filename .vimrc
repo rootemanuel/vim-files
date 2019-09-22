@@ -3,31 +3,47 @@
 "                  https://github.com/rootemanuel
 "=============================================================================
 syntax on
-colo pablo
 
-colorscheme gruvbox
+colorscheme dracula
+"colorscheme molokai
+"colorscheme gruvbox
+"colorscheme onedark
 
 
 "=============================================================================
 "                  Configs, number par, show ({[ complete
 "=============================================================================
+hi CursorLine cterm=underline gui=underline
 set encoding=utf-8
 set fileencoding=utf-8
 set hls
 set number
 set showmatch
+set cursorline
 
 "=============================================================================
 "                  Plugins
 "=============================================================================
 call plug#begin()
 
+Plug 'valloric/youcompleteme'
+Plug 'morhetz/gruvbox'
 Plug 'scrooloose/nerdtree'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-fugitive'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+Plug 'joshdick/onedark.vim'
+Plug 'majutsushi/tagbar'
+Plug 'dracula/vim', { 'as': 'dracula' }
+
+"Themes
 Plug 'morhetz/gruvbox'
+Plug 'tomasr/molokai'
+Plug 'dracula/vim'
 
 call plug#end()
 
@@ -81,6 +97,14 @@ if !exists('g:airline_symbols')
     let g:airline_symbols = {}
 endif
 
+
+"=============================================================================
+"                  Nmap`s
+"=============================================================================
+
+nmap <F2> :NERDTree<CR>
+nmap <F3> :TagbarToggle<CR>
+
 "=============================================================================
 "                  Declare
 "=============================================================================
@@ -107,3 +131,7 @@ let g:airline_right_alt_sep = ''
 let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
+
+"ctags tagbar
+let g:Tlist_Ctags_Cmd='/usr/local/Cellar/ctags/5.8_1/bin/ctags' 
+let g:tagbar_width=60
