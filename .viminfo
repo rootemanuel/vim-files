@@ -11,114 +11,202 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/countDemands
+~MSle0~/DPI-1047
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :q!
-|2,0,1566472613,,"q!"
-:q
-|2,0,1566472611,,"q"
-:NERDTree
-|2,0,1566472574,,"NERDTree"
-:PlugUpdate
-|2,0,1566472042,,"PlugUpdate"
+|2,0,1572467228,,"q!"
 :Q
-|2,0,1566472029,,"Q"
-:YcmRestartServer
-|2,0,1566472008,,"YcmRestartServer"
-:PlugInstall
-|2,0,1566471982,,"PlugInstall"
-:quit
-|2,0,1566471759,,"quit"
+|2,0,1572467223,,"Q"
+:Q!
+|2,0,1572467203,,"Q!"
+:q
+|2,0,1572467201,,"q"
 :w
-|2,0,1566471381,,"w"
-:/countDemands
-|2,0,1566470988,,"/countDemands"
-:'<,'>q
-|2,0,1566469835,,"'<,'>q"
-:Plug
-|2,0,1566469386,,"Plug"
-:Plugins
-|2,0,1566469380,,"Plugins"
-:PluginInstall
-|2,0,1566469279,,"PluginInstall"
-:PluginInsall
-|2,0,1566469273,,"PluginInsall"
-:x
-|2,0,1566469100,,"x"
-:exit
-|2,0,1566443944,,"exit"
-:Gcommit
-|2,0,1566443351,,"Gcommit"
-:GoInstallBinaries
-|2,0,1566441129,,"GoInstallBinaries"
-:150
-|2,0,1566440212,,"150"
-:20
-|2,0,1566440207,,"20"
-:102g
-|2,0,1566440175,,"102g"
-:NERDTreeToggle
-|2,0,1566439404,,"NERDTreeToggle"
-:/month/
-|2,0,1566439201,,"/month/"
-:NERDTreeTabsClose
-|2,0,1566212536,,"NERDTreeTabsClose"
-:help NERDTree
-|2,0,1566212420,,"help NERDTree"
-:NERDTreeTabs
-|2,0,1566211448,,"NERDTreeTabs"
-:NERDTreeTabsToggle
-|2,0,1566212072,,"NERDTreeTabsToggle"
-:yy
-|2,0,1566212035,,"yy"
-:'<,'>yy
-|2,0,1566209997,,"'<,'>yy"
-:10 g
-|2,0,1566209568,,"10 g"
-:20g
-|2,0,1566209563,,"20g"
-:/teste/
-|2,0,1566209173,,"/teste/"
-:gT
-|2,0,1565776130,,"gT"
-:gt
-|2,0,1565776124,,"gt"
-:e
-|2,0,1565775950,,"e"
-:o
-|2,0,1565775943,,"o"
-:qa
-|2,0,1560003999,,"qa"
-:GoRun
-|2,0,1559314538,,"GoRun"
-:make
-|2,0,1559314287,,"make"
+|2,0,1572466267,,"w"
 :GoBuild
-|2,0,1559314002,,"GoBuild"
-:GOBui
-|2,0,1559313405,,"GOBui"
+|2,0,1570570410,,"GoBuild"
+:bel terminal
+|2,0,1570570313,,"bel terminal"
+:W
+|2,0,1570529233,,"W"
+:NERDTree
+|2,0,1570012052,,"NERDTree"
+:hi CursorLine
+|2,0,1569133884,,"hi CursorLine"
 :wq
-|2,0,1559313265,,"wq"
-:qa!
-|2,0,1559283573,,"qa!"
-:GoFmt
-|2,0,1559283129,,"GoFmt"
-:BoBuild
-|2,0,1559281012,,"BoBuild"
-:GoBUild
-|2,0,1559281007,,"GoBUild"
-:Explore
-|2,0,1559099043,,"Explore"
-:explorer
-|2,0,1559099038,,"explorer"
-:NERDTree-X
-|2,0,1559091158,,"NERDTree-X"
+|2,0,1569127835,,"wq"
+:hi CursorLine cterm=underline
+|2,0,1569127778,,"hi CursorLine cterm=underline"
+:set cursorcolumn
+|2,0,1569079213,,"set cursorcolumn"
+:set cursorline 
+|2,0,1569079201,,"set cursorline "
+:<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)
+|2,0,1567898555,,"<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)"
+:sh
+|2,0,1567300906,,"sh"
+:NERDTreeCWD
+|2,0,1567300458,,"NERDTreeCWD"
+:NERDTreeCMD
+|2,0,1567300452,,"NERDTreeCMD"
+:<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detec
+|2,0,1567298750,,"<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detec"
+:PlugInstall
+|2,0,1567297375,,"PlugInstall"
+:'<,'>q
+|2,0,1567297319,,"'<,'>q"
+:bel termina
+|2,0,1567077497,,"bel termina"
+:10
+|2,0,1567073888,,"10"
+:1
+|2,0,1567073882,,"1"
+:TagbarToggle
+|2,0,1566990293,,"TagbarToggle"
+:TagBarFocus
+|2,0,1566990273,,"TagBarFocus"
+:NERd
+|2,0,1566989858,,"NERd"
+:Ag -i Stripe app/models
+|2,0,1566818016,,"Ag -i Stripe app/models"
+:Ag -i Stripe
+|2,0,1566818007,,"Ag -i Stripe"
+:Ag -l
+|2,0,1566817719,,"Ag -l"
+:ag
+|2,0,1566817716,,"ag"
+:Ag month .
+|2,0,1566817673,,"Ag month ."
+:Ag mode
+|2,0,1566817635,,"Ag mode"
+:Ag 
+|2,0,1566817630,,"Ag "
+:Ag 	
+|2,0,1566817588,,"Ag 	"
+:Ag Month
+|2,0,1566817582,,"Ag Month"
+:Ag month
+|2,0,1566817576,,"Ag month"
+:Ag
+|2,0,1566817551,,"Ag"
+:Ag test
+|2,0,1566817371,,"Ag test"
+:vimgrep /Month/ `find .`
+|2,0,1566817186,,"vimgrep /Month/ `find .`"
+:vimgrep /\month `find . -type go`
+|2,0,1566817165,,"vimgrep /\\month `find . -type go`"
+:vimgrep /Month/ `find . `
+|2,0,1566817071,,"vimgrep /Month/ `find . `"
+:vimgrep /\ month
+|2,0,1566817031,,"vimgrep /\\ month"
+:Gpush origin master
+|2,0,1566816801,,"Gpush origin master"
+:Gpush
+|2,0,1566816778,,"Gpush"
+:Gstatus
+|2,0,1566816765,,"Gstatus"
+:git status
+|2,0,1566816761,,"git status"
+:Gcommit
+|2,0,1566816312,,"Gcommit"
+:Gcommit "root"
+|2,0,1566816308,,"Gcommit \"root\""
+:Git add .
+|2,0,1566816257,,"Git add ."
 
 # Search String History (newest to oldest):
+??DPI-1047
+|2,1,1572467267,63,"DPI-1047"
+??64
+|2,1,1572467185,63,"64"
+??Test
+|2,1,1570570385,63,"Test"
+??Month
+|2,1,1570476025,63,"Month"
+??month
+|2,1,1570476022,63,"month"
+??errv
+|2,1,1570046345,63,"errv"
+??errFindIdParent
+|2,1,1570045386,63,"errFindIdParent"
+??errFindIdparent
+|2,1,1570045379,63,"errFindIdparent"
+??local
+|2,1,1569432523,63,"local"
+??func 
+|2,1,1569432377,63,"func "
+??/ 12
+|2,1,1569284403,63,"/ 12"
+??llog
+|2,1,1569281445,63,"llog"
+??rintln(
+|2,1,1569281273,63,"rintln("
+??r00t
+|2,1,1569270482,63,"r00t"
+??#r00t
+|2,1,1569079798,63,"#r00t"
+??Slow
+|2,1,1569075227,63,"Slow"
+??nitial
+|2,1,1568680120,63,"nitial"
+??Recurren
+|2,1,1567372604,63,"Recurren"
+??Calculate
+|2,1,1567372231,63,"Calculate"
+??Month(
+|2,1,1567372194,63,"Month("
+??Month	
+|2,1,1567298142,63,"Month	"
+??PREVISION
+|2,1,1567077752,63,"PREVISION"
+??ontrol
+|2,1,1567072124,63,"ontrol"
+??ItemGroup
+|2,1,1567072077,63,"ItemGroup"
+??Q
+|2,1,1566987992,63,"Q"
+??merrors[
+|2,1,1566987290,63,"merrors["
+?/\month
+|2,1,1566816954,47,"\\month"
+?/month
+|2,1,1566816947,47,"month"
+??Initial
+|2,1,1566815846,63,"Initial"
+??#r00taqui
+|2,1,1566814973,63,"#r00taqui"
+??LoadSingle
+|2,1,1566813945,63,"LoadSingle"
+??norecurrence
+|2,1,1566813754,63,"norecurrence"
+??:= repeats
+|2,1,1566789811,63,":= repeats"
+??repeats :=
+|2,1,1566788012,63,"repeats :="
+??repeat := 
+|2,1,1566787989,63,"repeat := "
+??repeats
+|2,1,1566787962,63,"repeats"
+??Loader
+|2,1,1566784549,63,"Loader"
+??ItemLoad
+|2,1,1566784471,63,"ItemLoad"
+??Test(
+|2,1,1566782812,63,"Test("
+??Teste
+|2,1,1566782810,63,"Teste"
+??Initial(
+|2,1,1566609341,63,"Initial("
+??initial(
+|2,1,1566608865,63,"initial("
+??*int
+|2,1,1566588737,63,"*int"
+??daoAccount
+|2,1,1566503087,63,"daoAccount"
 ??countDemands
 |2,1,1566472619,63,"countDemands"
 ??fmt.Print
@@ -132,40 +220,6 @@ $
 ?/311
 <sdaasdddddddaaaaa~~~~~~~~~~~~~~~~~~asadasdasasadasdasasadasdasasadasdasasadasdasasadasdasasadasdas~~~~~~~~~~~~~~~~~~~~~~ (INSERT)  [+]                                                         utf-8[unix]  100%    1/1  : 64 -- (insert) --
 |2,1,1566470976,47,"sdaasdddddddaaaaa~~~~~~~~~~~~~~~~~~asadasdasasadasdasasadasdasasadasdasasadasdasasadasdasasadasdas~~~~~~~~~~~~~~~~~~~~~~ (INSERT)  [+]                                                         utf-8[unix]  100%    1/1  : 64 -- (insert) --"
-?/Initial(
-|2,1,1566470902,47,"Initial("
-?/Loader(
-|2,1,1566470898,47,"Loader("
-?/Loader
-|2,1,1566470883,47,"Loader"
-?/Initial
-|2,1,1566468789,47,"Initial"
-?/Calculate
-|2,1,1566468587,47,"Calculate"
-?/calculate
-|2,1,1566468581,47,"calculate"
-?/mon/
-|2,1,1566439789,47,"mon/"
-?/mont
-|2,1,1566439781,47,"mont"
-?/month
-|2,1,1566439776,47,"month"
-?/teste
-|2,1,1566439763,47,"teste"
-?/month/
-|2,1,1566439224,47,"month/"
-? month
-|2,1,1566439201,,"month"
-? teste
-|2,1,1566209173,,"teste"
-? @$
-|2,1,1559099043,,"@$"
-?/UpdateGroupItem
-|2,1,1559093431,47,"UpdateGroupItem"
-?/groupite
-|2,1,1559093352,47,"groupite"
-??q
-|2,1,1559009615,63,"q"
 
 # Expression History (newest to oldest):
 
@@ -177,412 +231,536 @@ $
 
 # Registers:
 "0	CHAR	0
-	14ttested
-|3,0,0,0,1,0,1566471302,"14ttested"
-"2	CHAR	0
-	func (m *AccountService) Login(ctx *gin.Context) {
-		dao := AccountDao{}
-		login := UserLoginDto{}
-	
-		ctx.BindJSON(&login)
-		_, errv := govalidator.ValidateStruct(login)
-		if errv != nil {
-			errors := strings.Split(errv.Error(), ";")
-	
-			ctx.JSON(http.StatusBadRequest, gin.H{
-				"errors": errors,
-			})
-	
-			return
-		}
-	
-		srchLogin := AccountSearchDao{
-			Document: login.Document,
-			Active: &GenericActiveDao{
-				Active: true,
-			},
-			User: &UserSearchDao{
-				Email:    login.Email,
-				Password: util.Encrypt(login.Password),
-				Active: &GenericActiveDao{
-					Active: true,
-				},
-			},
-		}
-	
-		account, err := dao.FindAccountUser(srchLogin)
-		if err != nil {
-			if err == mgo.ErrNotFound {
-				ctx.Status(http.StatusUnauthorized)
-				return
-			}
-	
-			fmt.Println("#ERROR - FindAccountUser", err)
-			ctx.Status(http.StatusInternalServerError)
-			return
-		}
-	
-		ctx.JSON(http.StatusOK, account)
-	}
-	
-	
-	
-|3,0,2,0,47,0,1566439017,"func (m *AccountService) Login(ctx *gin.Context) {","	dao := AccountDao{}","	login := UserLoginDto{}","","	ctx.BindJSON(&login)","	_, errv := govalidator.ValidateStruct(login)","	if errv != nil {","		errors := strings.Split(errv.Error(), \";\")","","		ctx.JSON(http.StatusBadRequest, gin.H{","			\"errors\": errors,","		})","","		return","	}","","	srchLogin := AccountSearchDao{","		Document: login.Document,",>30
-|<"		Active: &GenericActiveDao{","			Active: true,","		},","		User: &UserSearchDao{","			Email:    login.Email,","			Password: util.Encrypt(login.Password),","			Active: &GenericActiveDao{","				Active: true,","			},","		},","	}","","	account, err := dao.FindAccountUser(srchLogin)","	if err != nil {","		if err == mgo.ErrNotFound {","			ctx.Status(http.StatusUnauthorized)","			return","		}","","		fmt.Println(\"#ERROR - FindAccountUser\", err)",>46
-|<"		ctx.Status(http.StatusInternalServerError)","		return","	}","","	ctx.JSON(http.StatusOK, account)","}","","",""
+	PATH=$PATH:
+|3,0,0,0,1,0,1572466240,"PATH=$PATH:"
+"1	LINE	0
+			l
+|3,0,1,1,1,0,1569281385,"		l"
+"2	LINE	0
+	hi CursorLine cterm=underline
+|3,0,2,1,1,0,1569133476,"hi CursorLine cterm=underline"
 "3	LINE	0
-			},
-|3,0,3,1,1,0,1559314523,"		},"
+	set cursorline   
+|3,0,3,1,1,0,1569127830,"set cursorline   "
 "4	LINE	0
-			"items": bson.M{
-|3,0,4,1,1,0,1559314521,"		\"items\": bson.M{"
+	set cursorcolumn
+|3,0,4,1,1,0,1569127830,"set cursorcolumn"
 "5	LINE	0
-			}
-|3,0,5,1,1,0,1559313969,"		}"
+			log.Println("--------------------")
+|3,0,5,1,1,0,1569079440,"		log.Println(\"--------------------\")"
 "6	LINE	0
-	for _, load := range row.Load {
-|3,0,6,1,1,0,1559313967,"for _, load := range row.Load {"
-"7	LINE	0
-				errInsert := daoItem.AddDemandItem(accountId, demandEntity)
-|3,0,7,1,1,0,1559312831,"			errInsert := daoItem.AddDemandItem(accountId, demandEntity)"
+			llog.Println("--------------------")
+|3,0,6,1,1,0,1569079439,"		llog.Println(\"--------------------\")"
+"7	CHAR	0
+	// for showing the line.
+|3,0,7,0,1,0,1569079282,"// for showing the line."
 "8	LINE	0
-	
-		
-|3,0,8,1,2,0,1559312831,"","	"
+			log.Println("#r00t percSlow => ", percSlow)
+|3,0,8,1,1,0,1569078703,"		log.Println(\"#r00t percSlow => \", percSlow)"
 "9	LINE	0
-					Value: load.Value,
-|3,0,9,1,1,0,1559312830,"				Value: load.Value,"
-"-	CHAR	0
-	item.Items[i]
-|3,0,36,0,1,0,1566470943,"item.Items[i]"
+			log.Println("#r00t percIrregular => ", percIrregular)
+|3,0,9,1,1,0,1569078702,"		log.Println(\"#r00t percIrregular => \", percIrregular)"
+""-	CHAR	0
+	7
+|3,1,36,0,1,0,1572467192,"7"
 
 # File marks:
-'0  1080  2  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,48,1080,2,1566472914,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
-'1  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,49,1,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'2  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,50,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'3  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,51,1,0,1566471151,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'4  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,52,1,0,1566471151,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'5  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,53,1,0,1566471151,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'6  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,54,12,0,1566471151,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'7  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,55,1,0,1566469102,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'8  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,56,1,0,1566469102,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
-'9  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,57,1,0,1566469102,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
+'0  12  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,48,12,65,1572467281,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'1  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,49,1,0,1572467228,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'2  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,50,1,0,1572467228,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'3  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,51,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'4  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,52,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'5  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,53,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'6  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,54,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'7  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,55,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'8  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,56,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+'9  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,57,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
 
 # Jumplist (newest first):
--'  1080  2  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1080,2,1566472914,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1083  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1083,0,1566472641,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1111  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1111,0,1566472641,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1134  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1134,0,1566472641,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1143  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1143,0,1566472641,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1150  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1150,0,1566472640,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1158  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1158,0,1566472640,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1161  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1161,0,1566472640,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1163  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1163,0,1566472640,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1079  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1079,0,1566472635,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1075  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1075,0,1566472635,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1071  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1071,0,1566472635,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1067  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1067,0,1566472635,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1063  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1063,0,1566472634,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1059  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1059,0,1566472634,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1092  23  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1092,23,1566472633,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-|4,39,1,0,1566472619,"~/go/src/github.com/rootemanuel/api-estoque/service/item.go"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566472614,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566472578,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566472578,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  12  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,12,0,1566471763,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  18  2  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,18,2,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
--'  1  0  ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-|4,39,1,0,1566471175,"~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1"
+-'  12  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,12,65,1572467281,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  19  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,19,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  26  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,26,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  33  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,33,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  40  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,40,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  47  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,47,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  54  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,54,65,1572467270,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  61  65  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,61,65,1572467269,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  66  200  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,66,200,1572467267,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,1,0,1572467252,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,1,0,1572467228,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  835  88  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,835,88,1572467207,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,1,0,1572467185,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  681  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,681,0,1572467125,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  1  0  ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+|4,39,1,0,1572467093,"~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10863  39  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10863,39,1572466888,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  10917  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,10917,0,1572466859,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  1  0  ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+|4,39,1,0,1572466856,"~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
+-'  15  18  ~/.bash_profile
+|4,39,15,18,1572466362,"~/.bash_profile"
 
 # History of marks within files (newest to oldest):
 
-> ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
-	*	1566472663	0
-	"	1080	2
-	^	2	0
-	.	2	0
-	+	1	0
-	+	1	27
-	+	1	21
-	+	1	0
-	+	1	56
-	+	1	28
-	+	1	65
-	+	1	37
-	+	1	22
-	+	1	0
-	+	1	1
-	+	1	2
-	+	1	4
-	+	1	1
-	+	1	0
-	+	1	1
-	+	1	0
-	+	1	1
-	+	1	37
-	+	1	68
-	+	1	57
-	+	1	34
-	+	1	0
-	+	1	2
-	+	1	19
-	+	1	29
-	+	1	33
-	+	1	38
-	+	1	34
-	+	1	9
-	+	1	10
-	+	1	35
-	+	1	53
-	+	1	17
-	+	1	0
-	+	1	32
-	+	1	0
-	+	1	9
-	+	1	3
-	+	1	1
-	+	1	0
-	+	1	51
-	+	1	1
-	+	1	3
-	+	1	0
-	+	1	5
-	+	1	0
-	+	1	2
-	+	1	0
-	+	1	2
-	+	1	7
-	+	1	0
-	+	1	19
-	+	1	30
+> ~/Desktop/xls_cielo/campanha/source/logs/xls_campaign_api_common.log
+	*	1572467274	0
+	"	12	65
+	.	835	88
+	+	835	88
+
+> ~/.npm/_logs/2019-10-30T20_19_53_381Z-debug.log
+	*	1572466886	0
+	"	10863	39
+	^	10917	31
+
+> ~/.bash_profile
+	*	1572466271	0
+	"	15	18
+	^	15	19
+	.	15	18
 	+	2	0
+	+	3	1
+	+	2	38
+	+	15	18
+
+> ~/go/src/github.com/rootemanuel/api-estoque/service/item.go
+	*	1571765633	0
+	"	29	0
+	^	845	0
+	.	846	0
+	+	740	42
+	+	740	41
+	+	994	15
+	+	19	7
+	+	577	22
+	+	577	23
+	+	548	5
+	+	105	6
+	+	335	30
+	+	1147	27
+	+	1186	30
+	+	58	33
+	+	29	14
+	+	194	53
+	+	1337	36
+	+	737	23
+	+	737	64
+	+	738	14
+	+	750	3
+	+	752	0
+	+	747	25
+	+	749	26
+	+	749	29
+	+	746	31
+	+	748	31
+	+	749	31
+	+	749	28
+	+	750	21
+	+	752	0
+	+	748	24
+	+	746	25
+	+	746	26
+	+	750	36
+	+	745	53
+	+	750	0
+	+	752	0
+	+	750	3
+	+	752	0
+	+	751	24
+	+	746	24
+	+	747	24
+	+	748	24
+	+	749	24
+	+	751	24
+	+	751	22
+	+	746	15
+	+	747	15
+	+	748	15
+	+	749	15
+	+	747	22
+	+	752	22
+	+	746	0
+	+	751	15
+	+	746	0
+	+	749	0
+	+	746	0
+	+	751	0
+	+	753	0
+	+	53	9
+	+	751	35
+	+	746	18
+	+	746	25
+	+	749	26
+	+	746	27
+	+	746	28
+	+	748	28
+	+	749	18
+	+	751	16
+	+	746	0
+	+	751	0
+	+	753	2
+	+	750	2
+	+	739	2
+	+	746	53
+	+	747	56
+	+	749	45
+	+	755	21
+	+	763	64
+	+	755	21
+	+	763	22
+	+	771	22
+	+	779	34
+	+	781	0
+	+	787	69
+	+	744	0
+	+	743	39
+	+	744	0
+	+	755	18
+	+	763	55
+	+	771	56
+	+	779	17
+	+	742	65
+	+	740	82
+	+	742	76
+	+	743	0
+	+	238	0
+	+	242	0
+	+	150	21
+	+	845	0
+	+	846	0
+	a	763	66
 
 > ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_1
-	*	1566472613	0
-	"	12	0
+	*	1571765592	0
+	"	13	0
 	.	1	0
 	+	1	0
 
+> ~/go/src/github.com/rootemanuel/api-estoque/__Tagbar__.1
+	*	1571765590	0
+	"	27	3
+	.	39	0
+	+	2068	0
+	+	2032	0
+	+	1996	0
+	+	1962	0
+	+	1930	0
+	+	1894	0
+	+	1858	0
+	+	1850	0
+	+	1753	0
+	+	1643	0
+	+	1607	0
+	+	1551	0
+	+	1515	0
+	+	1483	0
+	+	1374	0
+	+	1342	0
+	+	1306	0
+	+	1270	0
+	+	1237	0
+	+	1200	0
+	+	1165	0
+	+	1128	0
+	+	1091	0
+	+	1058	0
+	+	1016	0
+	+	995	0
+	+	953	0
+	+	917	0
+	+	881	0
+	+	845	0
+	+	809	0
+	+	773	0
+	+	739	0
+	+	710	0
+	+	674	0
+	+	644	0
+	+	613	0
+	+	576	0
+	+	542	0
+	+	505	0
+	+	485	0
+	+	452	0
+	+	415	0
+	+	385	0
+	+	374	0
+	+	337	0
+	+	301	0
+	+	183	0
+	+	146	0
+	+	109	0
+	+	73	0
+	+	39	0
+
 > ~/go/src/github.com/rootemanuel/api-estoque/service/account.go
-	*	1566470888	0
-	"	354	0
-	^	25	0
-	.	25	0
-	+	207	4
+	*	1571765580	0
+	"	25	0
+	^	196	19
+	.	196	18
+	+	211	4
 	+	130	0
 	+	101	0
-	+	424	0
+	+	428	0
 	+	24	0
 	+	26	0
 	+	25	0
 	+	1	1
 	+	25	0
+	+	18	10
+	+	196	18
+
+> ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_2
+	*	1570570317	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/go/src/github.com/rootemanuel/go-rabbit/main.go
+	*	1570529306	0
+	"	65	0
+	^	50	25
+	.	50	25
+	+	51	0
+	+	64	0
+	+	51	3
+	+	64	0
+	+	51	1
+	+	34	15
+	+	50	25
+
+> ~/go/src/github.com/rootemanuel/go-rabbit/NERD_tree_1
+	*	1570528855	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/go/src/github.com/rootemanuel/go-rabbit/__Tagbar__.1
+	*	1570528853	0
+	"	12	3
+	.	13	0
+	+	13	0
+
+> /private/var/folders/nl/vsw9_6fx67v6cm9y8m50wthh0000gn/T/com.littlebigmonster.iPack/web.xml
+	*	1570222422	0
+	"	79	0
+
+> ~/Desktop/xls_cielo/transacional/axis2/WEB-INF/services/OceService/META-INF/services.xml
+	*	1570221577	0
+	"	1	0
+
+> ~/Desktop/OCE_WS/docker/TOMCAT-SERVER/webapps/Realtime-XLSWS/WEB-INF/conf/axis2.xml
+	*	1570220455	0
+	"	32	0
+
+> ~/Desktop/xls_cielo/transacional/Realtime-XLSWS/WEB-INF/services/OceService/xls.properties
+	*	1570219466	0
+	"	1	0
 
 > ~/go/src/github.com/rootemanuel/api-estoque/entity/item.go
-	*	1566468751	0
-	"	15	0
-	^	59	41
-	.	59	41
-	+	39	0
-	+	43	1
-	+	41	5
-	+	42	0
-	+	41	54
-	+	42	57
-	+	42	55
-	+	34	14
-	+	40	14
-	+	34	29
-	+	33	34
-	+	34	63
-	+	35	0
-	+	34	44
+	*	1570047183	0
+	"	118	0
+	^	116	29
+	.	116	28
+	+	44	0
+	+	43	54
+	+	44	57
+	+	44	55
+	+	36	14
+	+	42	14
+	+	36	29
+	+	35	34
+	+	36	63
+	+	37	0
+	+	36	44
 	+	1	0
 	+	20	1
 	+	21	1
@@ -593,13 +771,101 @@ $
 	+	21	64
 	+	22	63
 	+	21	60
-	+	59	41
+	+	61	41
+	+	26	73
+	+	20	0
+	+	22	0
+	+	26	0
+	+	27	0
+	+	26	69
+	+	99	1
+	+	100	0
+	+	101	0
+	+	102	0
+	+	102	73
+	+	102	69
+	+	102	66
+	+	102	0
+	+	102	6
+	+	102	7
+	+	102	0
+	+	102	8
+	+	102	0
+	+	108	0
+	+	107	0
+	+	108	4
+	+	102	0
+	+	102	64
+	+	102	0
+	+	108	5
+	+	108	0
+	+	102	13
+	+	103	15
+	+	104	16
+	+	105	11
+	+	106	15
+	+	107	10
+	+	108	15
+	+	102	29
+	+	103	31
+	+	104	32
+	+	105	27
+	+	106	31
+	+	107	26
+	+	103	0
+	+	108	0
+	+	107	0
+	+	100	0
+	+	99	0
+	+	100	0
+	+	99	0
+	+	108	0
+	+	108	30
+	+	102	48
+	+	103	0
+	+	110	1
+	+	113	0
+	+	110	1
+	+	111	0
+	+	112	21
+	+	113	18
+	+	114	19
+	+	115	15
+	+	116	20
+	+	117	19
+	+	113	25
+	+	114	28
+	+	117	0
+	+	115	24
+	+	116	28
+
+> ~/go/src/github.com/rootemanuel/api-estoque/app.yaml
+	*	1570047141	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1570012053	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/xls_cielo/docker-compose.yml
+	*	1570011121	0
+	"	1	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/dao/account.go
+	*	1569432633	0
+	"	181	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/dao/generic.go
+	*	1569432624	0
+	"	1	0
 
 > ~/go/src/github.com/rootemanuel/api-estoque/dao/item.go
-	*	1566467413	0
-	"	12	0
-	^	366	3
-	.	382	0
+	*	1569432621	0
+	"	45	11
+	^	61	27
+	.	61	0
 	+	358	0
 	+	338	0
 	+	339	60
@@ -626,12 +892,100 @@ $
 	+	366	3
 	+	379	0
 	+	382	0
+	+	88	31
+	+	84	16
+	+	69	18
+	+	87	18
+	+	84	19
+	+	73	21
+	+	65	50
+	+	74	41
+	+	70	47
+	+	73	25
+	+	61	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/dao/user.go
+	*	1569432473	0
+	"	42	3
+
+> ~/go/src/github.com/rootemanuel/api-estoque/utility/utility.go
+	*	1569284607	0
+	"	1	0
+	^	16	1
+	.	15	23
+	+	19	18
+	+	15	23
+
+> ~/.vimrc
+	*	1569270391	0
+	"	33	0
+	^	23	9
+	.	23	8
+	+	1	0
+	+	2	0
+	+	3	0
+	+	44	38
+	+	46	0
+	+	8	0
+	+	10	0
+	+	8	0
+	+	10	0
+	+	9	0
+	+	8	0
+	+	26	46
+	+	26	33
+	+	26	0
+	+	8	0
+	+	9	0
+	+	8	0
+	+	17	28
+	+	26	0
+	+	17	44
+	+	20	0
+	+	14	0
+	+	17	14
+	+	18	16
+	+	23	8
+
+> ~/Desktop/root.txt
+	*	1569190116	0
+	"	2	12
+
+> ~/=underline
+	*	1569174733	0
+	"	1	0
+
+> ~/esp32-20190125-v1.10.bin
+	*	1569133897	0
+	"	32	1
+
+> ~/msfinstall
+	*	1569133583	0
+	"	27	0
+
+> ~/__Tagbar__.1
+	*	1569133562	0
+	"	7	4
+	.	8	0
+	+	8	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/config.toml
+	*	1569079245	0
+	"	2	3
+
+> ~/.rcvim
+	*	1569078363	0
+	"	1	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/entity/account.go
+	*	1568680168	0
+	"	27	0
 
 > ~/go/src/github.com/rootemanuel/api-estoque/application.go
-	*	1566439163	0
-	"	1	0
-	^	32	1
-	.	49	1
+	*	1567633861	0
+	"	18	0
+	^	22	28
+	.	23	0
 	+	38	0
 	+	39	0
 	+	38	45
@@ -640,137 +994,38 @@ $
 	+	19	0
 	+	18	0
 	+	49	1
+	+	23	0
 
-> ~/go/src/github.com/rootemanuel/api-estoque/api-estoque
-	*	1566438640	0
-	"	1	0
-
-> ~/go/src/github.com/rootemanuel/api-estoque/cache/generic.go
-	*	1566434862	0
-	"	40	0
-
-> ~/go/src/github.com/rootemanuel/api-estoque/cache/account.go
-	*	1566434856	0
-	"	1	0
-	^	18	4
-	.	18	0
-	+	17	22
-	+	28	13
-	+	29	0
-	+	26	0
-	+	28	1
-	+	18	0
-
-> ~/NERD_tree_1
-	*	1566434795	0
-	"	5	0
+> ~/NERD_tree_5
+	*	1567299716	0
+	"	4	0
 	.	1	0
 	+	1	0
 
-> ~/esp-idf/add_path.sh
-	*	1566212860	0
-	"	21	0
-	.	21	0
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-
-> ~/.vim/plugged/nerdtree/doc/NERDTree.txt
-	*	1566212536	0
-	"	151	0
+> ~/go/src/github.com/rootemanuel/api-estoque/teste.txt
+	*	1567029893	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+	a	1	0
+	i	1	0
 
 > /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/doc/help.txt
-	*	1566212290	0
+	*	1566988980	0
 	"	1	0
 
-> ~/msfinstall
-	*	1566212058	0
-	"	17	0
-
-> ~/Downloads/generate.vim
-	*	1566210233	0
-	"	62	0
-
-> ~/Downloads/NERD_tree_1
-	*	1566210176	0
-	"	6	0
+> ~/.vim/NERD_tree_1
+	*	1566988546	0
+	"	4	0
 	.	1	0
 	+	1	0
-
-> ~/.vimrc
-	*	1566210108	0
-	"	512	0
-	^	3	0
-	.	3	0
-	+	1	0
-	+	2	0
-	+	3	0
-
-> ~/go/src/github.com/rootemanuel/api-estoque/NERTree
-	*	1566209132	0
-	"	1	0
-
-> ~/.docker/config.json
-	*	1565698782	0
-	"	28	0
-
-> ~/Desktop/meli/meli/api-meli.yml
-	*	1565697914	0
-	"	1	0
-
-> ~/Desktop/meli/meli/NERD_tree_1
-	*	1565697914	0
-	"	6	0
-	.	1	0
-	+	1	0
-
-> ~/Desktop/meli/meli/src/main/resources/schema.sql
-	*	1565344928	0
-	"	1	0
-
-> ~/Desktop/meli/meli/src/main/resources/NERD_tree_1
-	*	1565344924	0
-	"	6	0
-	.	1	0
-	+	1	0
-
-> ~/go/src/github.com/rootemanuel/api-estoque/dao/user.go
-	*	1560937874	0
-	"	1	0
-
-> ~/go/src/github.com/rootemanuel/api-estoque/utility/utility.go
-	*	1560937852	0
-	"	1	0
-
-> ~/Desktop/hbs/Podfile
-	*	1560217435	0
-	"	7	20
-	^	7	21
-	.	7	21
-	+	7	21
 
 > ~/go/src/github.com/rootemanuel/api-estoque/dto/item.go
-	*	1560003989	0
-	"	75	1
-	^	74	3
-	.	74	2
+	*	1566817210	0
+	"	180	5
+	^	160	13
+	.	160	12
 	+	76	0
 	+	73	35
 	+	74	33
@@ -819,20 +1074,152 @@ $
 	+	79	2
 	+	79	0
 	+	74	2
+	+	162	11
+	+	162	0
+	+	160	12
 
-> ~/go/src/github.com/rootemanuel/api-estoque/dao/generic.go
-	*	1560003980	0
-	"	29	0
+> fugitive:///Users/h4x0rs/go/src/github.com/rootemanuel/api-estoque/.git//57df221518d18862c0b97ab2b627d72972ecc855/
+	*	1566816808	0
+	"	1	0
 
-> ~/go/src/github.com/rootemanuel/api-estoque/dao/account.go
-	*	1559948315	0
-	"	205	0
+> fugitive:///Users/h4x0rs/go/src/github.com/rootemanuel/api-estoque/.git//57df221518d18862c0b97ab2b627d72972ecc855
+	*	1566816803	0
+	"	1	0
 
-> ~/go/src/github.com/rootemanuel/api-estoque/NERD_tree_2
-	*	1559314380	0
-	"	22	0
+> fugitive:///Users/h4x0rs/go/src/github.com/rootemanuel/api-estoque/.git//1fb50d44f53f134f7ec5f54ba55f499bc53294bd
+	*	1566816740	0
+	"	1	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/:NERDTree
+	*	1566812764	0
+	"	1	0
+
+> /usr/local/Cellar/go/1.12.4/libexec/src/net/http/server.go
+	*	1566783143	0
+	"	1879	2
+
+> ~/go/src/github.com/gin-gonic/gin/gin.go
+	*	1566783141	0
+	"	355	0
+
+> ~/go/src/github.com/gin-gonic/gin/context.go
+	*	1566783139	0
+	"	146	1
+
+> ~/go/src/github.com/gin-gonic/gin/logger.go
+	*	1566783137	0
+	"	267	3
+
+> ~/go/src/github.com/gin-gonic/gin/recovery.go
+	*	1566783126	0
+	"	84	1
+
+> ~/workspaces/workspace-JAVA/meli/NERD_tree_1
+	*	1566503771	0
+	"	15	0
 	.	1	0
 	+	1	0
+
+> ~/workspaces/workspace-JAVA/meli/src/main/java/br/com/meli/Application.java
+	*	1566503769	0
+	"	10	43
+	^	10	44
+	.	10	44
+	+	10	44
+
+> ~/go/src/github.com/rootemanuel/api-estoque/api-estoque
+	*	1566474737	0
+	"	1	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/cache/generic.go
+	*	1566434862	0
+	"	40	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/cache/account.go
+	*	1566434856	0
+	"	1	0
+	^	18	4
+	.	18	0
+	+	17	22
+	+	28	13
+	+	29	0
+	+	26	0
+	+	28	1
+	+	18	0
+
+> ~/esp-idf/add_path.sh
+	*	1566212860	0
+	"	21	0
+	.	21	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+
+> ~/.vim/plugged/nerdtree/doc/NERDTree.txt
+	*	1566212536	0
+	"	151	0
+
+> ~/Downloads/generate.vim
+	*	1566210233	0
+	"	62	0
+
+> ~/Downloads/NERD_tree_1
+	*	1566210176	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/go/src/github.com/rootemanuel/api-estoque/NERTree
+	*	1566209132	0
+	"	1	0
+
+> ~/.docker/config.json
+	*	1565698782	0
+	"	28	0
+
+> ~/Desktop/meli/meli/api-meli.yml
+	*	1565697914	0
+	"	1	0
+
+> ~/Desktop/meli/meli/NERD_tree_1
+	*	1565697914	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/meli/meli/src/main/resources/schema.sql
+	*	1565344928	0
+	"	1	0
+
+> ~/Desktop/meli/meli/src/main/resources/NERD_tree_1
+	*	1565344924	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/hbs/Podfile
+	*	1560217435	0
+	"	7	20
+	^	7	21
+	.	7	21
+	+	7	21
 
 > ~/go/src/github.com/rootemanuel/api-estoque/NERDRtress
 	*	1559285319	0
@@ -892,3 +1279,6 @@ $
 	^	14	14
 	.	14	14
 	+	14	14
+
+> ~/go/src/github.com/rootemanuel/api-estoque/service/.item.go.swp
+	"	1	0
